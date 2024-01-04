@@ -1,7 +1,8 @@
 repo_name: gordonpn/priority-queue-heap
 report_id: 1903f0b7577042a59e81fc1e287c49cf
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T13:36:20+00:00'
+timestamp: '2024-01-04T14:54:03+00:00'
 requested_by: gordonpn
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/gordonpn/priority-queue-heap
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/gordonpn/priority-queue-heap
   detection_source: Repo Metadata
